@@ -1,4 +1,4 @@
-package com.gpa.forecastrestapi.model.controller;
+package com.gpa.forecastrestapi.controller;
 
 import com.gpa.forecastrestapi.dto.ForecastDTO;
 import com.gpa.forecastrestapi.model.Forecast;
